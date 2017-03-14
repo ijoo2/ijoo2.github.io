@@ -15,6 +15,7 @@ header-img: "img/Trees.jpg"
 
 <p> The main data structure is a n-node <a href="https://en.wikipedia.org/wiki/Trie"> trie. </a> </p>
 
+<p>
 ```python
 class TrieNode(object):
     def __init__(self, letter=''):
@@ -22,6 +23,7 @@ class TrieNode(object):
         self.children = {}
         self.is_word = False
 ```
+</p
 
 <p> The tree builds at the start of the program. It goes through every word in the dictionary, and constructs the tree. Each node contains the letter of the word. For example, to spell Cat, the tree would look like C -> A -> T. Every node has a flag to tell if it spells a word or not. That's pretty much it. It will read the input, going through traversing the tree letter by letter until it reached it's destination. <p>
 
