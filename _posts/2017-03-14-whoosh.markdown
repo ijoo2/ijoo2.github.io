@@ -13,7 +13,7 @@ header-img: "img/Trees.jpg"
 
 <p> It's a super simple program. I mainly made it to learn Python, and to practice binary trees since they are oh so common in interviews. Input in some text, and the program will autocomplete and suggest some words for you. For example, if you input "ca" the program might say "Did you mean cat?" I was originaly going to use some dictionary API to pull the words, but I decided to just use a static txt file containing all words in a dictionary. But how does it work? </p>
 
-<p> The main data structure is a n-node <a href="https://en.wikipedia.org/wiki/Trie"> trie. </a>
+<p> The main data structure is a n-node <a href="https://en.wikipedia.org/wiki/Trie"> trie. </a> </p>
 
 ```python
 class TrieNode(object):
