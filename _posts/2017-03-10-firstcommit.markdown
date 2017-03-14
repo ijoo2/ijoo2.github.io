@@ -2,7 +2,7 @@
 layout:     post
 title:      "First Commit"
 category:   personal
-tags:       [tech, personal]
+tags:       [personal]
 subtitle:   "git commit -m"
 date:       2017-03-10 12:00:00
 author:     "Inha Joo"
