@@ -1,8 +1,10 @@
 ---
 layout:     post
 title:      "First Commit"
+category:   personal
+tags:       [tech, personal]
 subtitle:   "git commit -m"
-date:       2017-03-13 12:00:00
+date:       2017-03-10 12:00:00
 author:     "Inha Joo"
 header-img: "img/post-bg-01.jpg"
 ---

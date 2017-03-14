@@ -1,0 +1,11 @@
+---
+layout:     post
+title:      "Working at Amazon"
+subtitle:   "comparing a giant corporation vs a medium sized company"
+date:       2017-03-12 12:05:00
+author:     "Start Bootstrap"
+header-img: "img/AmazonWebservices_Logo.svg_.jpg"
+---
+
+<p>TODO.</p>
+
