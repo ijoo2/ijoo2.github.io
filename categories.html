@@ -1,28 +1,23 @@
 ---
 layout: page
 title: Categories
+description: "Search posts by category"
 ---
 
-<div class="tags-expo">
-  <div class="tags-expo-list">
-    {% for tag in site.categories %}
-    <a href="#{{ tag[0] | slugify }}" class="post-tag" style="color:#3368FF">{{ tag[0] }}</a>
-    {% endfor %}
-  </div>
-  <hr/>
-  <div class="tags-expo-section">
-    {% for tag in site.categories %}
-    <h2 id="{{ tag[0] | slugify }}">{{ tag[0] }}</h2>
-    <ul class="tags-expo-posts">
-      {% for post in tag[1] %}
-        <a class="post-title" href="{{ site.baseurl }}{{ post.url }}">
-      <li style="color:#3368FF">
-        {{ post.title }}
-      <small class="post-date">{{ post.date | date_to_string }}</small>
-      </li>
-      </a>
-      {% endfor %}
-    </ul>
-    {% endfor %}
-  </div>
-</div>
+{% for tag in site.categories %}
+<a href="#{{ tag[0] | slugify }}" style="color:#1F94C4">{{ tag[0] }},</a>
+{% endfor %}
+<hr/>
+{% for tag in site.categories %}
+<h2 id="{{ tag[0] | slugify }}">{{ tag[0] }}</h2>
+<ul>
+  {% for post in tag[1] %}
+    <a class="post-title" href="{{ site.baseurl }}{{ post.url }}">
+  <li style="color:#1F94C4">
+    {{ post.title }}
+  <small style="color:#A7A6A6">{{ post.date | date_to_string }}</small>
+  </li>
+  </a>
+  {% endfor %}
+</ul>
+{% endfor %}

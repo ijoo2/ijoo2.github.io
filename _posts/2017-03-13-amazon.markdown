@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Working at Amazon"
-tags:       [tech, personal]
+tags:       [work, lifestyle]
 category:   [tech]
 subtitle:   "comparing a giant corporation vs a medium sized company"
 date:       2017-03-12 12:05:00
@@ -9,5 +9,29 @@ author:     "Inha Joo"
 header-img: "img/AmazonWebservices_Logo.svg_.jpg"
 ---
 
-<p>TODO.</p>
+<span class="caption text-muted">To go places and do things that have never been done before – that’s what living is all about.</span>
+
+<p> Last year in November, I decided to move to Seattle from my hometown of Chicago for an Amazon opportunity. While there are so many things to talk about my decision of moving to Seattle, this entry will only be about working at Amazon compared to my last job. </p>
+
+<p> For context, I graduated at the end of 2014. After graduation, I decided to accept an offer with Trading Technologies, based in Chicago. Trading Technologies is a medium-sized FinTech company (about 200-350 employees), and honestly, it was a great post-grad job experience. I learned so much over the past 1.5 years with them, and still keep in touch with several of my co-workers. They treated their employees well (at least I was), free breakfast, free snacks/drinks, and other tech perks you would normally expect from a typical tech company. </p>
+
+<p> After 1.5 years, I've decided to accept an offer with Amazon. With TT, I felt like my learning has stagnated. I also have always been interested in moving to the west coast. </p>
+
+<p> Now I've heard stories about Amazon. So many bad stories. Stories from friends, from online, from <a href="https://www.nytimes.com/2015/08/16/technology/inside-amazon-wrestling-big-ideas-in-a-bruising-workplace.html"> New York Times </a>. But so far, it has not been bad at all. Perhaps I got a lucky team, but everyone is very understanding, relaxed, and a real pleasure to work with. </p>
+
+**Pros**
+- Very smart and ambitious team. Although most of my teammates are around my age (25-30s), they all go above and beyond what they are asked to do.
+- It feels good working at a well-known company. Everyone knows what Amazon is, and in the tech industry, Amazon is considered one of the "Big 4" - the others being Google, Facebook, and Microsoft.
+- Learning a lot. Lots of opportunities to explore new areas or attend talks.
+- Working with things with HUGE scale. Knowing that a change you make, could potentially affect millions of customers
+- Encourages independence. I believe this is a huge plus. My last job, I was pretty much hand-held and decisions came from my product manager and dev manager. But in Amazon, I am encouraged to have ownership. Always be asking "why?" and always be learning.
+- $$$
+
+**Cons**
+- Very cutthroat. Definitely a more stressful environment than my last job. People regularly stay until 7pm or later. In fact, as of this moment it's 7:01 pm and more than half the team is still here.
+- Don't feel significant. In Amazon, there's literally thousands of software engineers, and you are just one person. While you definitely do impact your team, it doesn't really go outside of that.
+- Oncall can be rough. I haven't been oncall yet, but from seeing my teammates oncalls, it can definitely be demanding.
+
+<p> Those are just a few points, but overall? I believe it was a solid choice in my career. Cheers to 2017.</p>
+
 
