@@ -15,7 +15,7 @@ layout: default
                     <span class="meta">Posted by {% if page.author %}{{ page.author }}{% else %}{{ site.title }}{% endif %} on {{ page.date | date: "%B %-d, %Y" }}</span>
                     {% if page.tags %}
                         {% for tag in page.tags %}
-                            <span class="meta">{{ tag }}</span>
+                            <span class="meta">#{{ tag }}</span>
                         {% endfor %}
                     {% endif %}
                 </div>

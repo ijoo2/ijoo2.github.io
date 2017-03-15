@@ -17,7 +17,9 @@ header-img: "img/AmazonWebservices_Logo.svg_.jpg"
 
 <p> After 1.5 years, I've decided to accept an offer with Amazon. With TT, I felt like my learning has stagnated. I also have always been interested in moving to the west coast. </p>
 
-<p> Now I've heard stories about Amazon. So many bad stories. Stories from friends, from online, from <a href="https://www.nytimes.com/2015/08/16/technology/inside-amazon-wrestling-big-ideas-in-a-bruising-workplace.html"> New York Times </a>. But so far, it has not been bad at all. Perhaps I got a lucky team, but everyone is very understanding, relaxed, and a real pleasure to work with. </p>
+<p> Immediately during the new hire orientation, I could tell Amazon was a unique company. Our orientation leader (and many others) heavily stressed <a href="https://www.amazon.jobs/principles"> Amazon's Leadership Principles.</a> The leadership principles were also brought up during the interview process. On my on-site interview, I met with and did 1-on-1 interviews with 6 Amazonians. Every interview (except the lunch interview) seemed to follow the same schedule: ~40 min technical, ~15 min leadership principles and time for me to ask them questions. </p>
+
+<p> Now I've heard stories about Amazon. From friends, online, <a href="https://www.nytimes.com/2015/08/16/technology/inside-amazon-wrestling-big-ideas-in-a-bruising-workplace.html"> New York Times </a>. Amazon was known for their terrible work-life balance and the dreaded oncall rotation. Apparently the average tenure is about 1-2 years, but I don't have a source for that. Fortuantely, it has not been bad at all so far. Perhaps I got a lucky team, but everyone is very understanding, relaxed, and a real pleasure to work with. People frequently work from home, and can come/leave whenever they want.</p>
 
 **Pros**
 - Very smart and ambitious team. Although most of my teammates are around my age (25-30s), they all go above and beyond what they are asked to do.
@@ -31,7 +33,8 @@ header-img: "img/AmazonWebservices_Logo.svg_.jpg"
 - Very cutthroat. Definitely a more stressful environment than my last job. People regularly stay until 7pm or later. In fact, as of this moment it's 7:01 pm and more than half the team is still here.
 - Don't feel significant. In Amazon, there's literally thousands of software engineers, and you are just one person. While you definitely do impact your team, it doesn't really go outside of that.
 - Oncall can be rough. I haven't been oncall yet, but from seeing my teammates oncalls, it can definitely be demanding.
+- No free food/drinks! Well... we do get bread, oatmeal, cereal, coffee, and tea, but nothing more than that. To be honest, this is not a big deal to me though. While Amazon is pretty frugal to their employees, they definitely make sure developers have what they need to work.
 
-<p> Those are just a few points, but overall? I believe it was a solid choice in my career. Cheers to 2017.</p>
+<p> These are just a few points, but overall I believe accepting an offer with Amazon was a solid choice in my career. Cheers to 2017.</p>
 
 
