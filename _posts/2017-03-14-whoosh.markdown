@@ -23,6 +23,6 @@ class TrieNode(object):
         self.is_word = False
 ```
 
-<p> The tree builds at the start of the program. It goes through every word in the dictionary, and constructs the tree. Each node contains the letter of the word. For example, to spell Cat, the tree would look like C -> A -> T. Every node has a flag to tell if it spells a word or not. That's pretty much it. It will read the input, going through traversing the tree letter by letter until it reached it's destination. </p>
+<p> The tree builds at the start of the program. It goes through every word in the dictionary, and constructs the tree. Each node contains the letter of the word. For example, to spell Cat, the tree would look like C -> A -> T. Every node has a flag to tell if it spells a word or not. That's pretty much it. It will read the input, traversing the tree letter by letter until it reached its destination. </p>
 
 <p> I had one major obstacle which was fixed by using a <a href="https://en.wikipedia.org/wiki/Priority_queue"> Priority Queue. </a> Or a heapqueue in Python. When I input "ca" the program suggested to me something like "cab, cabbage, cabbages." To solve this issue, I've decided to use a priority queue with the closest words in respect to the node. Basically, if there are any 3 letter words, it will prioritize those words first. </p>
