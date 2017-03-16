@@ -9,7 +9,7 @@ author:     "Inha Joo"
 header-img: "img/moneywp.jpg"
 ---
 
-<p>So over the past few months, I've been a lot more aware of where my money is going and in finances in general. I started an investment account with Betterment, and am maxing out my Roth IRA and 401k.</p>
+<p>So over the past few months, I've been a lot more aware of where my money is going and in finances in general.</p>
 
 <p>When I was back home in Chicago earlier this year, I was talking to my older brother about finances, and that's when I realized that I spent over *13k* dollars on food over the past 12 months.</p>
 
