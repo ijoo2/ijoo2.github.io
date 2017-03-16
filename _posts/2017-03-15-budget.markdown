@@ -24,4 +24,4 @@ header-img: "img/moneywp.jpg"
 
 <h2 class="section-heading">Moving Foward</h2>
 
-<p>The most significant getaway from this is that it is ridiculously easy to spend money, and little things do add up. That one little Americano outside the office does stack up in the end. Feeling lazy at home? Why not buy takeout or delivery? Fortunately, the last month (Feb 2017) has been my best month over the past 12 months in terms of food expenses, althought I definitely was a lot more aware of the issue. Let's hope March is even better!</p>
+<p>The most significant getaway from this is that it is ridiculously easy to spend money, and little things do add up. Feeling lazy at home? Let's order takeout or delivery. How about an Americano or an iced coffee to start off the morning grind? While they may seem significantly small ($3-5), regular small purchases definitely matter in the end. Fortunately, the last month (Feb 2017) has been my best month over the past 12 months in terms of food expenses, although I was more aware of the issue. Let's hope March is even better!</p>
