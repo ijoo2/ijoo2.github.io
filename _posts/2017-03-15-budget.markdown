@@ -20,7 +20,7 @@ header-img: "img/moneywp.jpg"
 
 <p>Wow! That's almost 1.1k a month! Granted, this does include alcohol and bars, but that is only a fraction of my expenses. The software I used to budget/track my expenses is <a href="https://www.mint.com/"> Mint.</a> I highly recommend Mint, but I have heard that <a href="https://www.youneedabudget.com/"> YNAB (You Need a Budget)</a> is a great alternative.</p>
 
-<p>My older brother mentioned that he spent around 13k one specific year as well on food, but did stress that it was way too much. But now that lucky bastard works for Google, he gets free breakfast, lunch, and dinner, so his food expenses have been greatly reduced. Everyone including friends and family have been telling me that 13k one year is a ridiculous number (except for my current roommate, but I think he likes to live a lot more lavishly than most I do).</p>
+<p>My older brother mentioned that he spent around 13k one specific year as well on food, but did stress that it was way too much. But now that lucky bastard works for Google, he gets free breakfast, lunch, and dinner, so his food expenses have been greatly reduced. Everyone including friends and family have been telling me that 13k one year is a ridiculous number (except for my current roommate, but I think he likes to live a lot more lavishly than I do).</p>
 
 <h2 class="section-heading">Moving Foward</h2>
 
